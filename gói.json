@@ -1,7 +1,7 @@
 {
   "name": "fb-telegram-bot",
   "version": "1.0.0",
-  "description": "Facebook Messenger to Telegram bot",
+  "description": "Bot chuyển tiếp tin nhắn từ Facebook Messenger sang Telegram",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
